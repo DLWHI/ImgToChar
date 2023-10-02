@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: lacresha (School-21)
+Class-Path: ../lib/JColor-5.5.1.jar ../lib/jcommander-1.82.jar
+Main-Class: edu.school21.printer.app.Program
